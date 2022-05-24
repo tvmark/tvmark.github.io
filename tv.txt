@@ -767,8 +767,8 @@ CHC动作电影,http://iptv.tvfix.org/hls/chcatv.m3u8
 TVB官方,http://fangsong.live/hls/huya.php?id=23735126
 bilibli影音馆,http://fangsong.live/hls/bili.php?id=21377115
 bilibili一起看,http://fangsong.live/hls/bili.php?id=21694925
-虎牙八点档,http://fangsong.live/hls/douyu.php?id=880261
-虎牙影院,,http://fangsong.live/hls/douyu.php?id=11601968
+虎牙八点档,http://fangsong.live/hls/huya.php?id=880261
+虎牙影院,,http://fangsong.live/hls/huya.php?id=11601968
 周末电影院,http://fangsong.live/hls/douyu.php?id=3637726
 周星驰电影,http://fangsong.live/hls/huya.php?id=11342412
 吴孟达电影,http://fangsong.live/hls/huya.php?id=11336592
