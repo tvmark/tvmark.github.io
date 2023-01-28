@@ -21,7 +21,7 @@ BLANK-播放器官网：https://blankvip.top/
 
 意见反馈：
 -------------
-官方网站：dailyonline.top
+官方网站：http://dailyonline.top
 
 GMAIL邮箱：imkieranlu@gmail.com
 
