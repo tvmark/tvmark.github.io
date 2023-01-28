@@ -2,13 +2,14 @@ TVMARK直播源分享首页
 ------------------------------------------------------------------------------------------------------------------------------------
 安卓&盒子版客户端：                                
 骆驼壳、百川、DIPTV专用TXT源：                        
-dailyonline.top/live/tv.txt (备用)：https://tvmark.github.io/tv.txt                                    
+http://dailyonline.top/live/tv.txt (备用)：https://tvmark.github.io/tv.txt                                    
 
 IPTV Pro、Televizo等专用M3U源：                               
-dailyonline.top/live/tv.m3u (备用)：https://tvmark.github.io/tv.m3u
+http://dailyonline.top/live/tv.m3u (备用)：https://tvmark.github.io/tv.m3u
 
 -------------------------------------------------------------------------------
-安卓播放器(已内置直播源)： https://t.hk.uy/ab2a
+安卓播放器(已内置直播源)： https://lewisloh.lanzoue.com/iDnTR0l1nmdg
+密码:52pj
 
 电脑播放器：                                
 BLANK-播放器专用TXT源：dailyonline.top/live/iptv.txt (备用)：https://tvmark.github.io/iptv.txt                                    
