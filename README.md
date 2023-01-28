@@ -12,7 +12,7 @@ http://dailyonline.top/live/tv.m3u (备用)：https://tvmark.github.io/tv.m3u
 密码:52pj
 
 电脑播放器：                                
-BLANK-播放器专用TXT源：dailyonline.top/live/iptv.txt (备用)：https://tvmark.github.io/iptv.txt                                    
+BLANK-播放器专用TXT源：http://dailyonline.top/live/iptv.txt (备用)：https://tvmark.github.io/iptv.txt                                    
 BLANK-播放器官网：https://blankvip.top/                                                                               
 
 
