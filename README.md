@@ -2,16 +2,16 @@ TVMARK直播源分享首页
 ------------------------------------------------------------------------------------------------------------------------------------
 安卓&盒子版客户端：                                
 骆驼壳、百川、DIPTV专用TXT源：                        
-http://fangsong.live/iptv/tv.txt (备用)：https://tvmark.github.io/tv.txt                                    
+dailyonline.top/live/tv.txt (备用)：https://tvmark.github.io/tv.txt                                    
 
 IPTV Pro、Televizo等专用M3U源：                               
-http://fangsong.live/iptv/tv.m3u (备用)：https://tvmark.github.io/tv.m3u
+dailyonline.top/live/tv.m3u (备用)：https://tvmark.github.io/tv.m3u
 
 -------------------------------------------------------------------------------
 安卓播放器(已内置直播源)： https://t.hk.uy/ab2a
 
 电脑播放器：                                
-BLANK-播放器专用TXT源：http://fangsong.live/iptv/iptv.txt (备用)：https://tvmark.github.io/iptv.txt                                    
+BLANK-播放器专用TXT源：dailyonline.top/live/iptv.txt (备用)：https://tvmark.github.io/iptv.txt                                    
 BLANK-播放器官网：https://blankvip.top/                                                                               
 
 
@@ -20,7 +20,7 @@ BLANK-播放器官网：https://blankvip.top/
 
 意见反馈：
 -------------
-官方网站：http://fangsong.live/
+官方网站：dailyonline.top
 
 GMAIL邮箱：imkieranlu@gmail.com
 
