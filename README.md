@@ -5,14 +5,14 @@ TVMARK直播源分享首页
 http://dailyonline.top/live/tv.txt (备用)：https://tvmark.github.io/tv.txt                                    
 
 IPTV Pro、Televizo等专用M3U源：                               
-http://dailyonline.top/live/tv.m3u (备用)：https://tvmark.github.io/tv.m3u
+http://xteam.team/iptv/tv.m3u (备用)：https://tvmark.github.io/tv.m3u
 
 -------------------------------------------------------------------------------
 安卓播放器(已内置直播源)： https://lewisloh.lanzoue.com/iDnTR0l1nmdg
 密码:52pj
 
 电脑播放器：                                
-BLANK-播放器专用TXT源：http://dailyonline.top/live/iptv.txt (备用)：https://tvmark.github.io/iptv.txt                                    
+BLANK-播放器专用TXT源：http://xteam.team/iptv/iptv.txt (备用)：https://tvmark.github.io/iptv.txt                                    
 BLANK-播放器官网：https://blankvip.top/                                                                               
 
 
