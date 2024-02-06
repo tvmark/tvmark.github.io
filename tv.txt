@@ -35,5 +35,5 @@ https://ios.cfw.guide/installing-trollstore/
 
 https://github.com/qnblackcat/uYouPlus?tab=readme-ov-file
 
-https://ipa.store/
+https://github.com/xiaoyaocz/dart_simple_live/releases
 
