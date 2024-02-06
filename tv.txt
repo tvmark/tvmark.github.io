@@ -1,5 +1,6 @@
 央视频道,#genre#
-CCTV2 财经频道,https://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV2财经频道,https://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV1综合频道,http://tvpull.dxhmt.cn/tv/11081-2.m3u8
 神乐放映厅,https://openhls-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow.m3u8
 百事通,#genre#
 童年国漫,http://bp-caster.bestv.com.cn/486/1/video.m3u8
