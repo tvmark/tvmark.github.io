@@ -32,3 +32,8 @@ B+音乐厅,http://bp-caster.bestv.com.cn/469/1/video.m3u8
 介就是爱,http://bp-caster.bestv.com.cn/480/1/video.m3u8
 七彩戏剧,https://bp-caster.bestv.com.cn/250/1/video.m3u8
 https://ios.cfw.guide/installing-trollstore/
+
+https://github.com/qnblackcat/uYouPlus?tab=readme-ov-file
+
+https://ipa.store/
+
